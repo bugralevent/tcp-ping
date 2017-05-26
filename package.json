@@ -1,14 +1,14 @@
 {
-  "name": "tcp-ping",
+  "name": "tcp-ping-promise",
   "version": "0.1.1",
-  "description": "A ping utility using TCP connection",
+  "description": "A fork of tcp-ping module with promisified functions",
   "main": "ping.js",
   "scripts": {
     "test": "echo 0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wesolyromek/tcp-ping.git"
+    "url": "https://github.com/bugralevent/tcp-ping.git"
   },
   "keywords": [
     "ping",
@@ -19,7 +19,7 @@
   "author": "Adam Paszke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wesolyromek/tcp-ping/issues"
+    "url": "https://github.com/bugralevent/tcp-ping/issues"
   },
-  "homepage": "https://github.com/wesolyromek/tcp-ping"
+  "homepage": "https://github.com/bugralevent/tcp-ping"
 }
